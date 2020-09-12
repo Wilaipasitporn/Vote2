@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Vote</string>
+
+    <string name="Days">Days</string>
+    <string name="Hours">Hours</string>
+    <string name="Minutes">Minutes</string>
+    <string name="Seconds">Seconds</string>
+    <string name="Next">Next</string>
+
+</resources>
